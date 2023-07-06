@@ -8,3 +8,4 @@ for j in l2:
     if j not in res:
         res.append(j)
 print(res)
+
